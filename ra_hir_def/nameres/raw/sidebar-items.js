@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["DefKind",""],["ModuleData",""],["RawItemKind",""]],"struct":[["Def",""],["DefData",""],["ImportData",""],["ImportId",""],["ImportSourceMap",""],["Macro",""],["MacroData",""],["Module",""],["RawItem",""],["RawItems","`RawItems` is a set of top-level items in a file (except for impls)."]]});

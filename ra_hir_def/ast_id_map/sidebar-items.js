@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AstIdMap","Maps items' `SyntaxNode`s to `ErasedFileAstId`s and back."],["ErasedFileAstId",""],["FileAstId","`AstId` points to an AST node in a specific file."]]});

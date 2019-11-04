@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["per_ns","FIXME: write short doc here"],["raw","FIXME: write short doc here"]],"struct":[["CrateDefMap","Contains all top-level defs from a macro-expanded crate"],["ModuleData",""],["ModuleScope",""],["Resolution",""]]});
